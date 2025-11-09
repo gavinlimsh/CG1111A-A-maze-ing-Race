@@ -17,7 +17,7 @@ The robot integrates multiple sensors, including an ultrasonic sensor, an infrar
 | <img src="images/leftview.png" width="250"/> | <img src="images/rightview.png" width="250"/> |
 </div>
 
-## Maze Details
+## Maze Layout
 The mBot must be able to navigate through the maze without hitting the maze walls, and this can be done using
 the ultrasonic and infrared sensors.
 

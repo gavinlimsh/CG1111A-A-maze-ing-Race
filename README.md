@@ -9,7 +9,7 @@ Pictures of our mBot:
 | /images/frontview.png  | /images/backview.png  |
 | Left View | Right View |
 |----------|----------|
-| /images/leftview.png  | /images/rightview.png  |
+| images/leftview.png  | /images/rightview.png  |
 
 # Maze Details
 The mBot must be able to navigate through the maze without hitting the maze walls, and perform maneuvres based on the detected colour.

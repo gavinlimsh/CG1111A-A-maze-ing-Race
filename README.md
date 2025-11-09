@@ -6,13 +6,13 @@ The project combines both hardware design and software programming aspects which
 Pictures of our mBot:
 | Front View | Back View |
 |----------|----------|
-| /images/frontview.png  | /images/backview.png  |
+|![Front](images/frontview.png)|![Back](images/backview.png)|
 | Left View | Right View |
 |----------|----------|
-| images/leftview.png  | /images/rightview.png  |
+|![Front](images/leftview.png)|![Front](images/rightview.png)|
 
 # Maze Details
 The mBot must be able to navigate through the maze without hitting the maze walls, and perform maneuvres based on the detected colour.
-images/maze.png
+![Maze](images/maze.png)
 
-images/colour.png
+![Colour](images/colour.png)

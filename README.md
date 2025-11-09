@@ -67,7 +67,7 @@ Edit the hardware ports based on your connections.
   </tr>
 </table>
 
-<p><i><b>This table shows our current mBot sensor and motor connections</b>b></i></p>
+<p><i><b>This table shows our current mBot sensor and motor connections</b></i></p>
 
 </div>
 

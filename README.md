@@ -77,7 +77,7 @@ Our final group report containing more detailed explanations of the hardware des
 ## Contributors
 | Name | Github Link |
 |-----------|------------|
-| Pei Ling | [Github](https://github.com/peilingggg |
+| Pei Ling | [Github](https://github.com/peilingggg) |
 | Gavin | [Github](https://github.com/gavinlimsh) |
 | Lim Sin | [Github](https://github.com/wunicorn21) |
 | Wei Xiong | [Github](https://github.com/Lokwx) |

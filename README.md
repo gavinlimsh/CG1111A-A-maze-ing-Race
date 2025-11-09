@@ -57,13 +57,13 @@ Edit the hardware ports based on your connections.
     <td>Ultrasonic Sensor</td>
     <td>2</td>
     <td>Left</td>
-    <td>1</td>
+    <td>M1</td>
   </tr>
   <tr>
     <td>Line Follower</td>
     <td>3</td>
     <td>Right</td>
-    <td>2</td>
+    <td>M2</td>
   </tr>
 </table>
 

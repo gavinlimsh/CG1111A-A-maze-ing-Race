@@ -80,4 +80,4 @@ Our final group report containing more detailed explanations of the hardware des
 | Pei Ling | [Github](https://github.com/) |
 | Gavin | [Github](https://github.com/gavinlimsh) |
 | Lim Sin | [Github](https://github.com/wunicorn21) |
-| Wei Xiong | [Github](https://github.com/) |
+| Wei Xiong | [Github](https://github.com/Lokwx) |

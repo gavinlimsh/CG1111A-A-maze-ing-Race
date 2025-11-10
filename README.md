@@ -22,7 +22,7 @@ The mBot must be able to navigate through the maze without hitting the maze wall
 the ultrasonic and infrared sensors.
 
 <div align="center">
-<img src="images/maze.png" width="800"/>
+<img src="image/maze.png" width="800"/>
 
 ***Sample Maze Layout***
 </div>
@@ -32,7 +32,7 @@ While navigating the maze, the mBot's line sensor would look for a black line. O
 Once it detects a white coloured paper, it marks the end of the maze.
 
 <div align="center">
-<img src="images/colour.png" width="600"/>
+<img src="image/colour.png" width="600"/>
   
 ***Manoeuvres based on coloured paper***
 </div>

@@ -10,11 +10,11 @@ The robot integrates multiple sensors, including an ultrasonic sensor, an infrar
 
 | Front View | Back View |
 |------------|-----------|
-| <img src="images/frontview.jpg" width="400"/> | <img src="images/backview.jpg" width="400"/> |
+| <img src="image/frontview.jpg" width="450"/> | <img src="image/backview.jpg" width="450"/> |
 
 | Left View | Right View |
 |-----------|------------|
-| <img src="images/leftview.jpg" width="400"/> | <img src="images/rightview.jpg" width="400"/> |
+| <img src="image/leftview.jpg" width="450"/> | <img src="image/rightview.jpg" width="450"/> |
 </div>
 
 ## Maze Layout

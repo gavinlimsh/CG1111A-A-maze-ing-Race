@@ -8,13 +8,17 @@ The robot integrates multiple sensors, including an ultrasonic sensor, an infrar
 ## Overview of mBot
 <div align="center">
 
-| Front View | Back View |
-|------------|-----------|
-| <img src="image/frontview.jpg" width="450"/> | <img src="image/backview.jpg" width="450"/> |
+<table>
+  <tr>
+    <td align="center"><b>Front View</b><br><img src="image/frontview.jpg" style="width:450px; height:350px;"/></td>
+    <td align="center"><b>Back View</b><br><img src="image/backview.jpg" style="width:450px; height:350px;"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Left View</b><br><img src="image/leftview.jpg" style="width:450px; height:350px;"/></td>
+    <td align="center"><b>Right View</b><br><img src="image/rightview.jpg" style="width:450px; height:350px;"/></td>
+  </tr>
+</table>
 
-| Left View | Right View |
-|-----------|------------|
-| <img src="image/leftview.jpg" width="450"/> | <img src="image/rightview.jpg" width="450"/> |
 </div>
 
 ## Maze Layout

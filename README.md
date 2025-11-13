@@ -78,6 +78,11 @@ Edit the hardware ports based on your connections.
 ## Implementation
 Our final group report containing more detailed explanations of the hardware design and software algorithms can be found [here](https://github.com/gavinlimsh/CG1111A-A-maze-ing-Race/blob/main/Report.pdf).
 
+## Final mBot Demo
+<video width="640" height="360" controls>
+  <source src="images/mBot Final.mp4" type="video/mp4">
+</video>
+
 ## Contributors
 | Name | Github Link |
 |-----------|------------|

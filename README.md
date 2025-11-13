@@ -80,7 +80,8 @@ Our final group report containing more detailed explanations of the hardware des
 
 ## Final mBot Demo
 <video width="640" height="360" controls>
-  <source src="image/mBotFinal.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/b58b328b-0a42-47f6-89e3-7c1ae4368ef9" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 ## Contributors

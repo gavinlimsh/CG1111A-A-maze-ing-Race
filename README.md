@@ -80,7 +80,7 @@ Our final group report containing more detailed explanations of the hardware des
 
 ## Final mBot Demo
 <video width="640" height="360" controls>
-  <source src="images/mBot Final.mp4" type="video/mp4">
+  <source src="image/mBotFinal.mp4" type="video/mp4">
 </video>
 
 ## Contributors

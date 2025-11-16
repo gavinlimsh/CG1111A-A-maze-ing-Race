@@ -82,7 +82,7 @@ Our final group report containing more detailed explanations of the hardware des
 <div align="center">
 
 https://github.com/user-attachments/assets/03861971-2a2b-47c1-8c46-22dea1f034d8
-
+<p><i><b>Average Time of 31 seconds!</b></i></p>
 </div>
 
 ## Contributors

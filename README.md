@@ -76,7 +76,7 @@ Edit the hardware ports based on your connections.
 </div>
 
 ## Implementation
-Our final group report containing more detailed explanations of the hardware design and software algorithms can be found [here](https://github.com/gavinlimsh/CG1111A-A-maze-ing-Race/blob/main/Report.pdf).
+Our final group report containing more detailed explanations of the hardware design and software algorithms can be found [here](https://github.com/gavinlimsh/CG1111A-A-maze-ing-Race/blob/main/report.pdf).
 
 ## Final mBot Demo
 <div align="center">
